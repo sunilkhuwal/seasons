@@ -6,5 +6,4 @@ const SeasonDisplay = () => {
     );
 };
 
-
 export default SeasonDisplay;
